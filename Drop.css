@@ -1,0 +1,145 @@
+/* body{
+    background-image:url("../images/image-1.jpg");
+     
+} */
+
+
+.raj{
+    display: grid; 
+    grid-template-columns:  repeat(6, 1fr);
+  grid-gap:30px;
+ 
+ 
+}
+.sahil{
+    border:2px black solid;
+    background-color:rgb(130, 130, 211);
+    padding: 10%;
+    margin-top:30%;
+}
+a[href]{
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    color:purple;
+}
+/* .sahil{
+    text-decoration: none;
+    color:black;
+    text-align: center;
+    padding: 15px 30px;
+    background-color: blueviolet;
+    border: 2px solid black;
+    margin-top: 100px;
+  
+} 
+.sahi{
+    text-decoration: none;
+    color:black;
+    text-align: center;
+    padding: 15px 30px;
+    background-color: yellow;
+    border: 2px solid black;
+    margin-top: 100px;
+  
+}
+ 
+.sah{
+    text-decoration: none;
+    color:black;
+    text-align: center;
+    padding: 15px 30px;
+    background-color: green;
+    border: 2px solid black;
+    margin-top: 100px;
+  
+}
+.sa{
+    text-decoration: none;
+    color:black;
+    text-align: center;
+    padding: 15px 30px;
+    background-color: orange;
+    border: 2px solid black;
+    margin-top: 100px;
+  
+}
+.s{
+    text-decoration: none;
+    color:black;
+    text-align: center;
+    padding: 15px 30px;
+    background-color: aqua;
+    border: 2px solid black;
+    margin-top: 100px;
+  
+}
+.dd{
+    text-decoration: none;
+    color:black;
+    text-align: center;
+    padding: 15px 30px;
+    background-color: red;
+    border: 2px solid black;
+    margin-top: 100px;
+  
+} */
+/* .dropbtn{
+ margin-top: 25%;
+    width: 250%;
+} */
+/* body{
+   
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    margin:auto;
+    padding: auto;
+   
+} */
+/* .dropbtn{
+    text-decoration: none;
+    color:black;
+     padding: auto;
+    background-color: blueviolet;
+    border: 2px solid black;
+   margin-left: 5%;
+}
+
+.dropbt{
+    margin-left: 25%;
+    border: 2px solid black;
+    text-decoration: none;
+    padding: auto;
+    background-color: blueviolet;
+}
+
+.dropb{
+    
+    margin-left: 35%;
+}
+
+.drop{
+    margin-top: 15%;
+
+}
+.dro{
+     
+    
+    margin-left: 25%;
+} */
+
+
+/* .dr{
+    
+    
+    margin-left: 45%;
+} */
+/* .dropp{
+
+    margin-top: 20%;
+} */
+/* .elephant{
+    margin-left: 40%;
+}
+  */
