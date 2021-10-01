@@ -17,7 +17,7 @@ return (
 		 <a target ="_blank" href="./Waste.js">
  			<Link to="/Waste">Plastic</Link></a>
 			 </div>
-		 <div className="sahil">
+		 <div className="sahilp">
  			<Link to="/Waste">Paper</Link>
 			 </div>
  		 
