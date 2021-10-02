@@ -33,7 +33,7 @@ const Destinations = () => {
           <img src={image2} alt='destination-3' />
           <h3>Refurnish</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+             ipsum dolor sit amet consectetur adipisicing elit.
             Dignissimos, ab nesciunt? Molestias rem qui sequi!
           </p>
         </div>
